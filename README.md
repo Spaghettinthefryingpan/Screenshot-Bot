@@ -1,5 +1,5 @@
 # Screenshot-Bot
-A bot I made take screenshots of stuff and to make into a pdf
+This A bot I made to take screenshots of stuff and to make into a pdf
 
 READ ME!
 
