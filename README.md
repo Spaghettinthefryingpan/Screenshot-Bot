@@ -3,7 +3,7 @@ This A bot I made to take screenshots of stuff and to make into a pdf
 
 READ ME!
 
-I made this to download Raws for scanlations use this how you want. As long as if it's not child porn I do not condone my work being used for exploitation.
+I made this to download Raws for scanlations
 
 I would recommend to have your browser in full-screen it's better but the auto cropping usually does it's job but it sometimes fails especially when it's confusing I personally used Firefox.
 
