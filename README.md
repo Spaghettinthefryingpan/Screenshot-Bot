@@ -14,7 +14,8 @@ The files usually go into a temp folder so just search around until you see "sho
 Also If Smart Control Is being annoying just paste in this in your command prompt change the path to wherever you have the .exe 
 
 
-  Unblock-File -Path "C:\path\to\your\app.exe"
+Unblock-File -Path "C:\path\to\your\app.exe"
 
 :D
-If you don't mind could you click "More Info" -> "Run anyway" when prompted. cause after awhile windows will stop being so buggy about running my software
+
+If you don't mind could you click "More Info" -> "Run anyway" when prompted. cause after awhile windows will stop being so buggy about running my software.
