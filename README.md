@@ -17,3 +17,4 @@ Also If Smart Control Is being annoying just paste in this in your command promp
   Unblock-File -Path "C:\path\to\your\app.exe"
 
 :D
+If you don't mind could you click "More Info" -> "Run anyway" when prompted. cause after awhile windows will stop being so buggy about running my software
